@@ -94,3 +94,8 @@ I'm interested in Data Analysis.
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div dir=3D"ltr">gpc</div><div hspace=3D"streak-pt-mark" style=3D"max-heigh=
+t:1px"><img alt=3D"" style=3D"width:0px;max-height:0px;overflow:hidden" src=
+=3D"https://mailfoogae.appspot.com/t?sender=3DaZ3drMTEyNUBoYW55YW5nLmFjLmty=
+&amp;type=3Dzerocontent&amp;guid=3Dbd6aff65-e969-408d-94d7-6473a65bad52"><f=
+ont color=3D"#ffffff" size=3D"1">=E1=90=A7</font></div>
