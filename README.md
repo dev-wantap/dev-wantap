@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-wantap&label=Profile%20views&color=0e75b6&style=flat" alt="dev-wantap" /> </p>
 
-- 🔭 I’m currently working on **ATV(Start-up team.**
+- 🔭 I’m currently working on **ATV(Start-up team)**
 
 - 🌱 I’m currently learning **JAVA(Mvc, etc.), Computer Vision, System Programming, SwiftUI**
 
