@@ -94,7 +94,3 @@ I'm interested in Data Analysis.
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<img id=3D"b" src=3D"http://www.trackapp.io/b/700d351340b211ecb3b942010=
-a415002.png" border=3D"0" style=3D"border-width:0px" alt=3D"">
-    <table id=3D"r" border=3D"0"><tr><td background=3D"http://www.trackapp.=
-io/r/700d351340b211ecb3b942010a415002.png"></td></tr></table>
