@@ -26,7 +26,7 @@ I'm interested in Data Analysis.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ATV(Start-up Team)  
+- 🔭 I’m currently studing at Hanyang University ERICA   
   
 
 - 🌱 I’m currently learning Programming Methodology, Computer Vision, System Programming, SwiftUI  
