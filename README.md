@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gwanwoo Kim, a software engineer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [XSLAB](https://xslab.co.kr)  
+- 🔭 I’m currently student (Hanyang Univ. ERICA)
   
 
 - 🌱 I’m currently learning Computer Vision, Django, FastAPI, BootStrap.  
