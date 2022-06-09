@@ -9,7 +9,7 @@
 - 🔭 I’m currently student (Hanyang Univ. ERICA)
   
 
-- 🌱 I’m currently learning Computer Vision, Django, FastAPI, BootStrap.  
+- 🌱 I’m currently learning Golang.
   
 
 - 📫 How to reach me gwkgwk1125@hanyang.ac.kr    
