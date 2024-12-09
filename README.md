@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Golang.
   
 
-- 📫 How to reach me gwkgwk1125@hanyang.ac.kr    
+- 📫 How to reach me gwk1125@hanyang.ac.kr    
   
 
 <br/>  
