@@ -2,7 +2,7 @@
 
 🎓 Currently studying at Hanyang University ERICA <br/>  
 🔭 Focusing on Backend Engineering and Server Development<br/>  
-🌱 Currently learning Python, Java, Docker, and more<br/>  
+🌱 Currently learning Java, Docker, Flutter, and more<br/>  
 💡 Passionate about server development and system architecture<br/>  
 📫 How to reach me: gwk1125@hanyang.ac.kr<br/>  
 
