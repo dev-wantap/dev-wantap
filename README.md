@@ -6,8 +6,9 @@
 💡 Passionate about server development and system architecture<br/>  
 📫 How to reach me: gwk1125@hanyang.ac.kr<br/>  
 
-<br/>  
+<br/> 
 🛠️ Tech Stack I'm Learning
+<br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
