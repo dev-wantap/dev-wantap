@@ -2,7 +2,7 @@
 
 🎓 Currently studying at Hanyang University ERICA <br/>  
 🔭 Focusing on Backend Engineering and Server Development<br/>  
-🌱 Currently learning Java, Docker, Flutter, and more<br/>  
+🌱 Currently learning Python, Docker, Flutter, kqueue, FastAPI and more<br/>  
 💡 Passionate about server development and system architecture<br/>  
 📫 How to reach me: gwk1125@hanyang.ac.kr<br/>  
 
@@ -10,10 +10,10 @@
 🛠️ Tech Stack I'm Learning
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 <br/>
 
@@ -35,28 +35,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-wantap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dev-wantap&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
